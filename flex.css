@@ -1,0 +1,45 @@
+.father {
+  width: 800px;
+  height: 40px;
+  background-color: black;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.Store {
+  color: aliceblue;
+}
+
+.Mac {
+  color: aliceblue;
+}
+.iPad {
+  color: aliceblue;
+}
+.iPhone {
+  color: aliceblue;
+}
+.Watch {
+  color: aliceblue;
+}
+.Vision {
+  color: aliceblue;
+}
+v .Airpods {
+  color: aliceblue;
+}
+.Home {
+  color: aliceblue;
+}
+.Entertainment {
+  color: aliceblue;
+}
+.Accessories {
+  color: aliceblue;
+}
+.Support {
+  color: aliceblue;
+}
